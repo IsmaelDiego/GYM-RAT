@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html <?php language_attributes(); ?>>
+<html lang="en">
 
 <head>
-  <title>GYM-RAT</title>
-  <meta charset="<?php bloginfo('charset'); ?>">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php wp_title('|', true, 'right'); ?><?php bloginfo('name'); ?></title>
-    <meta name="description" content="<?php bloginfo('description'); ?>">
-    <meta name="keywords" content="">
+    <meta charset="utf-8" />
+    <title> Xeloro - Admin & Dashboard Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
+    <meta content="MyraStudio" name="author" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
 </head>
 
@@ -26,7 +26,6 @@
 <link
   href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600;700&family=Jost:wght@400;600;700&display=swap"
   rel="stylesheet">
-  <?php wp_head(); ?>
 
 </head>
 
